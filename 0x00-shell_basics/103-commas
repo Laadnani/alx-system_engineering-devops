@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -da1 | sed '/\/$/!s/$/\//' tr '\n' ', '
+ls -da
