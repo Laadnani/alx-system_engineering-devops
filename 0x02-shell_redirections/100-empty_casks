@@ -1,2 +1,2 @@
 #i!/bin/bash
-find . -empty -print "%P" 
+find . -empty | rev | cut -d '/' -f | red 
