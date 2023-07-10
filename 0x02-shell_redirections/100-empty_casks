@@ -1,2 +1,2 @@
 #i!/bin/bash
-find . -empty -print 
+find . -empty -print "%P" 
